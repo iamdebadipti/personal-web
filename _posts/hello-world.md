@@ -1,19 +1,33 @@
 ---
-title: 'Learn How to Pre-render Pages Using Static Generation with Next.js'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+title: 'Hello World! Welcome to my website'
+excerpt: 'I am a self-taught Full-stack Engineer. Besides programming, I love music 🎧 and spending time alone with nature. My favorite kind of music is Lo-Fi Beats which helps me focus and relax while coding.'
+coverImage: '/assets/post/hello-world/cover.jpg'
+date: '2020-01-06T22:12:03.284Z'
 author:
-  name: Tim Neutkens
-  picture: '/assets/blog/authors/tim.jpeg'
+    name: Debadipti Patra
+    picture: '/assets/post/authors/debadipti.jpeg'
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+    url: '/assets/post/hello-world/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Welcome to my website. I know, I am writing this in a really crazy time, but this is my first ever blog about me that I have posted online so this is really exciting for me. While we are all stuck at home, it's a really good excuse to let you know, who am I? and what I do? and, why this website exist at all? If you want to follow me or see what I am up to, you can find me on [Twitter](https://twitter.com/iamdebadipti), [GitHub](https://github.com/iamdebadipti) and [LinkedIn](https://www.linkedin.com/in/p-debadipti/). I spend most of my time on Twitter, for the memes 🙌; so please follow me on there, I swear I will not bloat you timeline.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+## About me
 
-## Lorem Ipsum
+I am a self-taught Full-stack Engineer, from a very small village of [Odisha](https://en.wikipedia.org/wiki/Odisha), which is also known as the temple state of India. Currently I am working with some amazing and talented people in Bangalore. You know, being from a Management background, it is a little bit hard to get into Software Engineering, and I did not started programming also when I started my career. But, it is my passion for technologies, and some amazing peoples' help that got me this far, and I am forever grateful to them.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+## My Work
+
+Now, I mostly work on Front End technologies like, JavaScript, [React.js](https://reactjs.org/), [GraphQL](https://graphql.org/learn/), [React Native](https://reactnative.dev/), SCSS, [Gatsby](https://www.gatsbyjs.org/), but also proficient in the Back End with [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), [MongoDB](https://www.mongodb.com/), other cool technologies and tools. Back when I was starting to learn to code, I was doing some research and study in UI/UX design, and this is now helping me to design and develop pixel-perfect websites and web apps.
+
+Recently, I have started working on my side-projects. One of the major work I have started is a blogging website, [Fossbracket](https://www.fossbracket.com/), where I am posting all about technology, be it programming, open source software (as I am a Linux fan boy), or anything I love and excited about 🤩. Another project I am working on is a small note taking web app, where you can save, sync and share notes written in markdown or normal text format. I have also made my first NPM module [use-dark-hook](https://www.npmjs.com/package/use-dark-hook) 🙌 which will help you to integrate dark mode in your React Web App.
+
+You can find all my work on [GitHub](https://github.com/iamdebadipti).
+
+Besides programming, I love music 🎧 and taking pictures of nature 📸. My favorite kind of music is Lo-Fi Beats which helps me focus and relax while coding. And, my favorite sport is playing badminton which I usually play in weekends, but trying to make it an everyday game in my schedule.
+
+It is not been a long time I started programming, but I am sure I will continue to develop more and more amazing stuff in the future, and learn a whole lot of thing along the way. To be frank, even I am not sure where it will take, but I am enjoying every bit of this journey.
+
+I am glad you survived till the end of this long... whatever this thing is. Again, no judgements please, I know my English. I will post my experience, opinions, and probably other things here in my blog, so.... have you not followed me yet? Here is my [twitter handle](https://twitter.com/iamdebadipti), in case you are searching.
+
+Anyways, thank you so much reading!
