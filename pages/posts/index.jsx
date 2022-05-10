@@ -15,9 +15,9 @@ function Posts({ allPosts }) {
 				<h3 className="text-lg mt-0 mb-4">All Posts</h3>
 				{allPosts.length > 0 ? (
 					allPosts.map((post, index) => (
-						<div key={index} className="mb-6 flex flex-start">
+						<div key={index} className="mb-6 flex flex-col md:flex-row flex-start">
 							<div
-								className="rounded-sm mr-4 h-28 w-44 bg-cover bg-center"
+								className="rounded-sm mb-2 md:mb-0 md:mr-4 h-48 md:h-28 w-full md:w-44 bg-cover bg-center"
 								style={{ backgroundImage: `url("${post.coverImage}")`, minWidth: '11rem' }}
 							/>
 							<div>

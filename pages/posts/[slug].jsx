@@ -23,7 +23,7 @@ export default function Post({ post }) {
                         <link rel="icon" href="/favicon.ico" type="image/x-icon" />
                     </Head>
                     <header>
-                        <h1 className="text-3xl">{post.title}</h1>
+                        <h1 className="text-2xl md:text-3xl">{post.title}</h1>
                         <div className="mt-2 flex items-center gap-2">
                             <span>
                                 <svg

@@ -1,8 +1,8 @@
 function HeroHeader() {
 	return (
-		<div className="py-6 flex items-start">
+		<div className="py-6 flex flex-col md:flex-row items-start">
 			<div
-				className="w-28 h-28 min-w-fit rounded-full bg-cover bg-center mr-6"
+				className="w-28 h-28 min-w-fit rounded-full bg-cover bg-center mb-6 md:mr-6 md:mb-0"
 				style={{ backgroundImage: 'url("/assets/post/authors/debadipti.jpeg")', minWidth: '7rem' }}
 			/>
 			<div>

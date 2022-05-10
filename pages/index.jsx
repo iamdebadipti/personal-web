@@ -16,7 +16,7 @@ export default function Index({ allPosts }) {
                 <h3 className="text-lg mt-0 mb-4">Recent Posts</h3>
                 {allPosts.length > 0 ? (
                     allPosts.map((post, index) => (
-                        <div key={index} className="mb-1">
+                        <div key={index} className="mb-4 md:mb-1">
                             <Link href={`/posts/${post.slug}`}>
                                 <a>
                                     <h2 className="text-lg font-medium mt-0 mb-2">{post.title}</h2>
